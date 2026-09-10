@@ -1,0 +1,15 @@
+{
+  "name": "genpark-congruence-closure-e-graph-skill",
+  "version": "1.0.0",
+  "description": "Nelson-Oppen congruence closure and E-graph equality saturation engine propagating functional equivalence across uninterpreted terms.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "e-graph",
+    "congruence-closure",
+    "smt-solver",
+    "equality-saturation"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
